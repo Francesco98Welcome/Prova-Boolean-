@@ -1,0 +1,82 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+.container {
+    width: 855px;
+    height: 600px;
+    margin: 0 auto;
+    margin-top: 28px;
+    border-radius: 20px;
+    background-color: rgb(0,0,0, 0.4);
+}
+
+header > img {
+    width: 170px;
+    margin-top: 66px;
+}
+header {
+    text-align: center;
+}
+h2 {
+    color: rgb(87, 225, 87);
+    margin: 0;
+}
+
+.nav-main {
+    width: 700px;
+    margin: 0 auto;
+}
+nav {
+    text-align: center;
+    background-color: rgb(87, 225, 87);
+    height: 28px;
+    padding-top: 6px;
+}
+nav > button {
+    margin-left: 2px;
+    font-size: 10px;
+}
+
+
+
+section {
+    color: white;
+    /*border: 1px solid gray;*/
+    margin-top: 18px;
+    font-weight: bold;
+    margin: none;
+    width: 220px;
+}
+.checkbox {
+    width: 12px;
+}
+span {
+    font-size: 12px;
+}
+
+
+
+.input-text {
+    width: 240px;
+    background-color: rgb(230, 180, 87);
+    border: none;
+    border-radius: 4px;
+    height: 20px;
+}
+.input-text-2 {
+    width: 350px;
+    background-color: lightgreen;
+    border: none;
+    border-radius: 4px;
+    height: 20px;
+}
+.input-text-3 {
+    width: 100px;
+    background-color: rgb(192, 60, 60);
+    border: none;
+    border-radius: 4px;
+    height: 20px;
+}
